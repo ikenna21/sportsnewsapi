@@ -5,7 +5,7 @@ Installation:
 
 pip install -r requirements.txt
 
-Endpoints:
+Endpoints:<br /> <br />
 /api/feeds/	GET	Retrieves first 20 articles
 <br />
 <br />
